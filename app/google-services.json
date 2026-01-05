@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189681218640",
+    "project_id": "disaster-rescue-hub",
+    "storage_bucket": "disaster-rescue-hub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189681218640:android:57d41090497e6f93518d55",
+        "android_client_info": {
+          "package_name": "com.example.disasterrescuehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzamPzNtwcvENyx6rUzh5uLMt7TjrmspE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
